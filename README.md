@@ -1,4 +1,5 @@
 # Projectentri
 Main Project 
-Project Title:
-Human Physical Activity Recognition Using EMG Sensor Data
+Dataset Title: Diabetes 130-US Hospitals for Years 1999-2008
+
+Topic: Healthcare - Diabetes and Hospital Readmission Data
